@@ -2,7 +2,7 @@
 ## 综述文献
 
 1、A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice
-![](Pasted%20image%2020260714223725.png)
+![](png/Pasted%20image%2020260714223725.png)
 
 （1）**传统推荐系统方法**：协同过滤、基于内容的过滤、混合方法（线性）
 - 协同过滤：通过寻找相似用户或项目的邻域来推荐项目
