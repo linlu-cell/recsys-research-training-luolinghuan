@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/1.md",
+                "file": "knowledge_base/paper_reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "paper_reading"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "b69a1b302735021d",
   "lastOpenFiles": [
-    "knowledge_base/python.md",
+    "png/Pasted image 20260714223828.png",
+    "png/Pasted image 20260714223725.png",
+    "Pasted image 20260714223618.png",
     "knowledge_base/1.md",
+    "knowledge_base/python.md",
     "Pasted image 20260714223028.png",
     "knowledge_base/recsys.md",
     "learning_plan.md",
@@ -205,8 +208,6 @@
     "Pasted image 20260714214142.png",
     "Pasted image 20260714213942.png",
     "Pasted image 20260714213706.png",
-    "Pasted image 20260714213636.png",
-    "Pasted image 20260714213551.png",
     "knowledge_base/README.md",
     "knowledge_base/tools.md",
     "knowledge_base/math.md",
