@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "knowledge_base/paper_reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "paper_reading"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "f9bcdfd2e63950da",
   "lastOpenFiles": [
+    "README.md",
     "learning_plan.md",
     "knowledge_base/tools.md",
     "knowledge_base/recsys.md",
@@ -211,7 +212,6 @@
     "knowledge_base/1.md",
     "knowledge_base/math.md",
     "png",
-    "README.md",
     "欢迎.md",
     "knowledge_base",
     "assignment",
