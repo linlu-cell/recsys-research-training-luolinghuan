@@ -1,5 +1,6 @@
 ### 1、结构——list[]、tuple()、set{}
-![[Pasted image 20260713230945.png]]
+
+![](Pasted%20image%2020260714223028.png)
 ![[Pasted image 20260713231224.png|339]]
 **==字符串==**
 ![[Pasted image 20260714204859.png|364]]![[Pasted image 20260714204917.png|298]]
