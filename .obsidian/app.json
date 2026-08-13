@@ -1,4 +1,5 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "png"
+  "attachmentFolderPath": "png",
+  "alwaysUpdateLinks": true
 }
